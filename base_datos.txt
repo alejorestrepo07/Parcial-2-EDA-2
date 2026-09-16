@@ -1,0 +1,2 @@
+5,blanco
+78,negro
