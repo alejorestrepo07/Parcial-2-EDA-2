@@ -1,4 +1,4 @@
-#PARRCIAL 2 ENTREGA
+# PARCIAL 2 ENTREGA
 
 ## Especificación del Parcial 2: Motor de Base de Datos SQL (Árboles B+)
 
