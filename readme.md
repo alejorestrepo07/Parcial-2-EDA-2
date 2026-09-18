@@ -1,4 +1,6 @@
-# Especificación del Parcial 2: Motor de Base de Datos SQL (Árboles B+)
+#PARRCIAL 2 ENTREGA
+
+## Especificación del Parcial 2: Motor de Base de Datos SQL (Árboles B+)
 
 Este documento establece los requerimientos, la arquitectura esperada y la rúbrica de evaluación para el desarrollo del Motor de Base de Datos SQL basado en Árboles B+.
 
